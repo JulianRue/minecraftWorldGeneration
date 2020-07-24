@@ -1,6 +1,6 @@
-# Minecraft Procedual Content Generation
+# Minecraft Procedural Content Generation
 
-Minecraft Procedual Content Generation with Perlin Noise (Trees), fractal Brownian Motion (Terrain + hill top) and Linear Interpolation (Cliff)
+Minecraft Procedural Content Generation with Perlin Noise (Trees), fractal Brownian Motion (Terrain + hill top) and Linear Interpolation (Cliff)
 
 Preview:
 https://youtu.be/PSB5yMQJlLY
